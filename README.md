@@ -5,5 +5,7 @@
 - Console API (e.g `CONSOLE_FONT_INFOEX`) on Windows is deprecated. 
 
 ### TODOS
-- [ ] https://github.com/unicode-org/icu/blob/main/icu4c/source/data/locales/my.txt
+- [ ] icu
+    - https://github.com/unicode-org/icu/blob/main/icu4c/source/common/locmap.cpp
+    - https://github.com/unicode-org/icu/blob/main/icu4c/source/data/locales/my.txt
 - [ ] gettext tools
