@@ -9,3 +9,4 @@
     - https://github.com/unicode-org/icu/blob/main/icu4c/source/common/locmap.cpp
     - https://github.com/unicode-org/icu/blob/main/icu4c/source/data/locales/my.txt
 - [ ] gettext tools
+- [ ] [Null-terminated multibyte strings - cppreference.com](https://en.cppreference.com/w/cpp/string/multibyte)
